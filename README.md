@@ -36,7 +36,7 @@ I’m a Master’s student in Computer Networksand Systems, passionate about sof
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayefjihane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayefjihane1@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tayefjihane](https://www.linkedin.com/in/tayef-jihane-2a9a10273/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayefjihane1@gmail.com) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
