@@ -1,7 +1,7 @@
 ## Hi, I'm Tayef Jihane 👋
 
 ### 💻  About Me:
-I’m a Master’s student in Computer Networksand Systems, passionate about software engineering, system administration, and IT infrastructure. I enjoy building scalable and efficient applications, optimizing systems and networks, and solving real-world problems with clean, maintainable code. My interests include full-stack development, system and network administration.
+I’m a Master’s student in Computer Networks and Systems, passionate about software engineering, system administration, and IT infrastructure. I enjoy building scalable and efficient applications, optimizing systems and networks, and solving real-world problems with clean, maintainable code. My interests include full-stack development, system and network administration.
 
 
 ### 🛠️  Tech Stack:
